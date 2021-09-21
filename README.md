@@ -1,3 +1,8 @@
 #Between us
 
-Video chat using Node JS, WebRTC, Websockets 
+Chat web application
+
+Support video chat, text  chat, file transfer
+
+Following lecture Noom by Nico 
+https://nomadcoders.co
